@@ -3,4 +3,4 @@ rm -rf dist
 mkdir dist
 npm run umiBuild
 cp ./favicon.ico dist/
-mv dist/igp/index.html server/views/index.html
+cp dist/index.html server/views/index.html

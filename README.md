@@ -8,7 +8,7 @@ AMIS的示例看这个： https://baidu.gitee.io/amis/examples/index
 
 AMIS官网： https://baidu.gitee.io/amis/zh-CN/docs/index   
 
-项目仓库地址： https://github.com/YalongYan/amis-react-node
+项目仓库地址： https://github.com/devinhccjack/node-admin.git
 
 项目技术栈： `react hook`、 `typescript`、 `koa2`、`mysql sequelize`
 
@@ -106,6 +106,7 @@ module.exports = {
 项目整体做的比较简单，可以在此基础上继续添加所需的功能，比如看板的权限控制、登录体系的完善等
 
 #### 总结与思考：
+```bush
 搭建系统好多家都在做，其实搭建系统实现本身不难，难点在于需求的不确定性，这时候需要的是产品、开发、以及其他相关同学有搭建系统的意识，
 
 搭建系统无非就是把常用的功能组件化，确实一般的需求也都是可以组件化的，当大家都有这个意识后，产品再提出需求就可以围绕搭建系统来进行，
@@ -114,3 +115,4 @@ module.exports = {
 
 长此以往，搭建不仅可以推动公司需求往标准化发展，还可以积累搭建的组件，从而为开发同学减轻压力
 
+```

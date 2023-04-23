@@ -29,8 +29,7 @@ export default defineConfig({
       // }
     },
     '/node/': {
-      // target: 'http://127.0.0.1:1753/',
-      target: 'http://10.40.70.26:1753/',
+      target: 'http://127.0.0.1:1753/',
       changeOrigin: true,
     },
     '/ugp/': {
